@@ -1,0 +1,23 @@
+/*
+* Cristina Herb
+* Due Date
+* Super Hero Table  
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+
+table, td, th { border: 1px solid mediumblue; } /* This changes the colors of the border of the table */
+table { border-collapse: collapse; } /* this collapses the border to get rid of the lines in between the borders */
+
+thead { background-color: greenyellow; } /* this changes the color for the background of the heading */
+tfoot { background-color: lightcyan; } /* this changes the color for the background of the footing */
